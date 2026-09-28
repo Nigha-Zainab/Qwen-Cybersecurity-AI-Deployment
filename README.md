@@ -1,3 +1,4 @@
+
 # Qwen Cybersecurity AI Deployment
 
 ## Multi-GPU Cybersecurity AI Inference using llama.cpp, CUDA and NVIDIA Tesla T4 GPUs
@@ -227,3 +228,18 @@ Qwen-Cybersecurity-AI-Deployment/
 │
 └── results/
     └── README.md
+---
+
+## Deployment Environment
+
+| Component | Configuration |
+|---|---|
+| Platform | Kaggle |
+| Operating System | Linux |
+| GPU | 2 × NVIDIA Tesla T4 |
+| GPU Memory | ~15 GB per GPU |
+| CUDA | 12.8 |
+| Inference Framework | llama.cpp |
+| Model Format | GGUF |
+| Model Quantization | IQ4_XS |
+| Context Size | 8192 tokens |
