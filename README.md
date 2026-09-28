@@ -396,11 +396,8 @@ Qwen3.8-27B-Uncensored-Cyber GGUF model documentation
 Author
 
 Nigha Zainab
-
-5th Semester
 Information Security
 
-Instructor: Mr Nastalique Tariq
 
 Project Type: Technical Deployment & Validation
 
