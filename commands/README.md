@@ -447,6 +447,3 @@ Information Security
 
 Technical Deployment & Validation
 
-Roll No: UOC-ITF24-033
-
-Instructor: Mr Nastalique Tariq
